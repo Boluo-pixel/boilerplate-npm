@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Boluo-pixel"
+	"author": "Boluo-pixel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
